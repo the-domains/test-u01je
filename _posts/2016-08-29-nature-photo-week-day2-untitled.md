@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-29T08:24:35.999Z'
-dateModified: '2016-08-29T08:24:00.594Z'
+datePublished: '2016-08-29T08:25:26.063Z'
+dateModified: '2016-08-29T08:24:39.796Z'
 sourcePath: _posts/2016-08-29-nature-photo-week-day2-untitled.md
 related: []
 author:
