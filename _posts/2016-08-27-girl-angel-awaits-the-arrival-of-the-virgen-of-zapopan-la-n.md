@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-29T07:30:13.530Z'
+datePublished: '2016-08-29T07:36:00.553Z'
 sourcePath: >-
   _posts/2016-08-27-girl-angel-awaits-the-arrival-of-the-virgen-of-zapopan-la-n.md
-inFeed: false
-hasPage: true
+inFeed: true
+isBasedOnUrl: 'https://www.instagram.com/p/BJWQhd2ATuL/?taken-by=infinity.8.visuals'
+hasPage: false
 keywords: []
 related: []
 author:
@@ -11,7 +12,7 @@ author:
     url: 'https://www.instagram.com/infinity.8.visuals'
     avatar: {}
 via: {}
-dateModified: '2016-08-29T07:30:13.145Z'
+dateModified: '2016-08-29T07:35:59.949Z'
 title: >-
   Girl Angel awaits the arrival of the virgen of Zapopan. La Niña Angel espera
   la llegada de la virgen de Zapopan. ‪#‎mimexico‬ ‪#‎ig_latinoamerica‬
@@ -34,8 +35,7 @@ app_links:
     type: android
 publisher: {}
 description: ''
-starred: true
-url: girl-angel-awaits-the-arrival-of-the-virgen-of-zapopan-la-n/index.html
+starred: false
 _context: 'http://schema.org'
 _type: Photograph
 
