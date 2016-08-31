@@ -1,7 +1,7 @@
 name: fine art photography
 favicon: null
-layout_spectrum: 0.5829787
-typography_spectrum: 0.8090736460871994
+layout_spectrum: 0.51065
+typography_spectrum: 0.09765
 collections:
   - index:
       path: /
