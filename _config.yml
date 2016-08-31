@@ -1,3 +1,7 @@
+name: fine art photography
+favicon: null
+layout_spectrum: 0.5829787
+typography_spectrum: 0.8090736460871994
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8090736460871994
+title: fine art photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7223376713227481
-  brandStrength: 0.4450197098776698
-  rhythmicContrast: 0.8722156183794141
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+  brandStrength: 0.4450197098776698
   lightness: 0.5723589181434363
-layout_spectrum: 0.5829787
-name: test
+  saturation: 0.7223376713227481
+  rhythmicContrast: 0.8722156183794141
+purpose: []
