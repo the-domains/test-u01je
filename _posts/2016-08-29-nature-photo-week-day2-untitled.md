@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-29T08:25:26.063Z'
-dateModified: '2016-08-29T08:24:39.796Z'
+datePublished: '2016-08-29T08:31:10.346Z'
+dateModified: '2016-08-29T08:30:36.764Z'
 sourcePath: _posts/2016-08-29-nature-photo-week-day2-untitled.md
 related: []
 author:
@@ -37,7 +37,7 @@ publisher:
   url: 'https://www.instagram.com'
   favicon: >-
     https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/dfa85bb1fd63.ico
-starred: false
+starred: true
 url: nature-photo-week-day2-untitled/index.html
 _context: 'http://schema.org'
 _type: Photograph
